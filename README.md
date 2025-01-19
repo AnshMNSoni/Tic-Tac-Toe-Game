@@ -2,7 +2,7 @@
 
 Welcome to the **Tic-Tac-Toe Game**! This is a simple yet fun implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game includes features like player customization, dark mode, winning animations, and full responsiveness for both mobile devices and laptops.
 
-## Features
+## 👉 Features
 
 - **Player Customization**: Enter player names and choose whether Player 1 plays as "X" or "O".
 - **Responsive Design**: The game is designed to work seamlessly on both mobile devices and laptops.
@@ -30,31 +30,33 @@ Welcome to the **Tic-Tac-Toe Game**! This is a simple yet fun implementation of 
 6. **Reset the Game**: 
     Click the "Reset Game" button to start a new match.
 
-## Technologies Used
+## 👉 Technologies Used
 
 - **HTML**: Markup for creating the structure of the game.
 - **CSS**: Styling for the game, including responsive design and animations.
 - **JavaScript**: Logic for the game, including player interactions, win detection, and animations.
 
-## Responsive Design
+## 👉 Responsive Design
 
 The game is fully responsive, ensuring that it looks and works well on devices of all sizes, from mobile phones to laptops.
 
-## Dark Mode
+## 👉 Dark Mode
 
 You can toggle between light and dark mode by clicking the moon/sun icon in the top right corner of the screen.
 
-## Winning Animation
+## 👉 Winning Animation
 
 When a player wins, a fun confetti animation plays across the screen to celebrate the victory.
 
-## Contributing
+## 👉 Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## Contact
+## 👉 Contact
 
 Feel free to reach out if you have any questions or suggestions:
 
 - **Name**: Ansh Soni
 - **LinkedIn**: [Link](https://www.linkedin.com/in/anshmnsoni/)
+
+Thankyou 
