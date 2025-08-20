@@ -52,11 +52,15 @@ When a player wins, a fun confetti animation plays across the screen to celebrat
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## 👉 Contact
+## 📢 Connect with Me
+If you found this project helpful or have any suggestions, feel free to connect:
 
-Feel free to reach out if you have any questions or suggestions:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshmnsoni-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/anshmnsoni)  
+- [![GitHub](https://img.shields.io/badge/GitHub-AnshMNSoni-181717.svg?logo=github)](https://github.com/AnshMNSoni)
+- [![Reddit](https://img.shields.io/badge/Reddit-u/AnshMNSoni-FF4500.svg?logo=reddit)](https://www.reddit.com/user/AnshMNSoni)
 
-- **Name**: Ansh Soni
-- **LinkedIn**: [Link](https://www.linkedin.com/in/anshmnsoni/)
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
 
-## Thankyou 
+### Thankyou 💫
+
